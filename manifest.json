@@ -5,10 +5,7 @@
     "description": "크롬 CSP DISABLE 프로그램",
     "homepage_url": "https://github.com/kangjung/Disable-CSP.git",
     "background": {
-        "scripts": [
-            "background.js"
-        ],
-        "persistent": true
+        "scripts": [ "background.js" ]
     },
     "browser_action": {
         "default_title": "CSP DISABLE"
@@ -16,6 +13,11 @@
     "permissions": [
         "https://*/*",
         "http://*/*",
-        "tabs"
-    ]
+        "tabs",
+        "webRequest",
+        "webRequestBlocking",
+        "browsingData"
+       
+    ],
+    "icons": { "16": "image/icon.png", "128": "image/icon.png" }
 }
