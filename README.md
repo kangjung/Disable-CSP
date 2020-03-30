@@ -1,5 +1,6 @@
 # Disable-CSP
 Content Security Policy (CSP) Disable
+
 Use At Your Own Risk
 
 웹 응용 프로그램에 콘텐츠 보안 정책(Content Security Policy)을 사용하지 않도록 설정하는 크롬 확장 프로그램입니다.
