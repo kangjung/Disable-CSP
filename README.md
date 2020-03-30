@@ -10,4 +10,4 @@ Content Security Policy는 악의적인 콘텐츠를 실행하게 하는 사이�
 어떠한 목적으로 사용하든 사용에 따른 결과는 본인 스스로 감수하셔야합니다.
 (Use At Your Own Risk)
 
-참고 페이지 : https://developer.chrome.com/extensions/webRequest
+구현시 참고 페이지 : https://developer.chrome.com/extensions/webRequest
