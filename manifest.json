@@ -1,8 +1,8 @@
 {
-    "name": "chrome-csp-disable",
+    "name": "csp-disable",
     "version": "0.0.1",
     "manifest_version": 2,
-    "description": "크롬 CSP DISABLE 프로그램",
+    "description": "CSP DISABLE 프로그램",
     "homepage_url": "https://github.com/kangjung/Disable-CSP.git",
     "background": {
         "scripts": [ "background.js" ]

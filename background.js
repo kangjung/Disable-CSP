@@ -8,7 +8,6 @@ function imageChange() {
     chrome.browserAction.setTitle({ title: 'CSP ' + title });
 }
 
-
 var opt_extraInfoSpec = ["blocking", "responseHeaders"];
 var filter = {urls: ["*://*/*"], types: ["main_frame", "sub_frame"]};
 var callback = function(details) {
@@ -20,13 +19,11 @@ var callback = function(details) {
             details.responseHeaders[i].value = "";
         }
     }
-
     imageChange();
     return {
         responseHeaders: details.responseHeaders
     };
 };
-
 
 chrome.webRequest.onHeadersReceived.addListener(callback, filter, opt_extraInfoSpec);
 
