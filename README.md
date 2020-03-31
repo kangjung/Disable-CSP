@@ -11,3 +11,6 @@ Content Security Policy는 악의적인 콘텐츠를 실행하게 하는 사이�
 (Use At Your Own Risk)
 
 구현시 참고 페이지 : https://developer.chrome.com/extensions/webRequest
+
+
+웨일 확장 앱 : https://store.whale.naver.com/detail/ehkcbacepkpndgniinliiclikddaiife
