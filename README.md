@@ -12,7 +12,7 @@ Content Security Policy는 악의적인 콘텐츠를 실행하게 하는 사이�
 
 구현시 참고 페이지 : https://developer.chrome.com/extensions/webRequest
 
-크롬 웹스토어 : https://chrome.google.com/webstore/detail/hjngkcigmlhefidinfbdnkegocefpjap/publish-accepted?authuser=0&hl=ko
+크롬 웹스토어 : https://chrome.google.com/webstore/detail/csp-disable/hjngkcigmlhefidinfbdnkegocefpjap?hl=ko
 
 
 웨일 확장 앱 : https://store.whale.naver.com/detail/ehkcbacepkpndgniinliiclikddaiife
