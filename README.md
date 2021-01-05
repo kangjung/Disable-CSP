@@ -10,9 +10,12 @@ Content Security Policy는 악의적인 콘텐츠를 실행하게 하는 사이�
 어떠한 목적으로 사용하든 사용에 따른 결과는 본인 스스로 감수하셔야합니다.
 (Use At Your Own Risk)
 
-구현시 참고 페이지 : https://developer.chrome.com/extensions/webRequest
+# 구현시 참고 페이지
+https://developer.chrome.com/extensions/webRequest
 
-크롬 웹스토어 : https://chrome.google.com/webstore/detail/csp-disable/hjngkcigmlhefidinfbdnkegocefpjap?hl=ko
+# 크롬 웹스토어
+https://chrome.google.com/webstore/detail/csp-disable/hjngkcigmlhefidinfbdnkegocefpjap?hl=ko
 
 
-웨일 확장 앱 : https://store.whale.naver.com/detail/ehkcbacepkpndgniinliiclikddaiife
+# 웨일 확장 앱
+https://store.whale.naver.com/detail/ehkcbacepkpndgniinliiclikddaiife
